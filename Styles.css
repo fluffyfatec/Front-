@@ -10,7 +10,3 @@
 .tab-pane .tab-header-area .tab-header-background {
     -fx-background-color:  #2d343a;
 }
-.root{
-	-fx-background-image:url("back.png");
-
-}
